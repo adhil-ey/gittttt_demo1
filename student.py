@@ -5,3 +5,5 @@ d=int(input ("enter the phno:"))
 print(a)
 print(b)
 print(c)
+
+printed student details are verified
