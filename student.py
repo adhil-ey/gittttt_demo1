@@ -1,0 +1,7 @@
+a=input ("enter the name:")
+b=input ("enter the address:")
+c=int(input ("enter the age:"))
+d=int(input ("enter the phno:"))
+print(a)
+print(b)
+print(c)
